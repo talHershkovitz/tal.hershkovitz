@@ -32,20 +32,20 @@ nav{
     }
     input[type="text"] {
     
-        color: rgb(198, 245, 245);
+
         width: 150px;
         display: block;
         margin-bottom: 10px;
-        background-color: rgb(71, 197, 197);
+        
         }
         textarea {
         
             display: block;
             margin-bottom: 10px;
-            background-color: rgb(71, 197, 197);
+        
             }
         input[type="button"] {
-            color: rgb(198, 245, 245);
+    
         width: 120px;
         margin-left: 65px;
         display: block;
