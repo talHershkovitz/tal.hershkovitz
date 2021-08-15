@@ -1,0 +1,52 @@
+*{
+ 
+
+    background-image: url(https://www.pitria.com/wp-content/uploads/2020/12/landscape-5255326_1920.jpg);
+    background-repeat: repeat-x;
+    padding: 10px;
+    margin: 5px;
+    border: 1px   white;
+    color:  rgb(198, 245, 245);
+    border-radius: 15px;
+}
+
+body
+
+h1 {
+    color: rgb(165, 40, 88);
+    text-align: center;
+    }
+nav{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(20px, auto);
+    text-align: left;
+    }
+    
+    p {
+        color:  rgb(198, 245, 245);
+        text-align: left;
+        font-size: medium;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    input[type="text"] {
+    
+        color: rgb(198, 245, 245);
+        width: 150px;
+        display: block;
+        margin-bottom: 10px;
+        background-color: rgb(71, 197, 197);
+        }
+        textarea {
+        
+            display: block;
+            margin-bottom: 10px;
+            background-color: rgb(71, 197, 197);
+            }
+        input[type="button"] {
+            color: rgb(198, 245, 245);
+        width: 120px;
+        margin-left: 65px;
+        display: block;
+        }
